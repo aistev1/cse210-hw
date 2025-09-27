@@ -5,9 +5,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        var video1 = new Video("Learning C#", "John Doe", 300);
-        var video2 = new Video("Intro to OOP", "Jane Smith", 450);
-        var video3 = new Video("Advanced C# Techniques", "Alice Johnson", 600);
+        var video1 = new Video("Learning C#", "Stephen Isiko", 300);
+        var video2 = new Video("Intro to OOP", "Mukisa Derick", 450);
+        var video3 = new Video("Advanced C# Techniques", "Lydia Isiko", 600);
 
         video1.AddComment(new Comment("Mike", "Great video!"));
         video1.AddComment(new Comment("Sara", "Very helpful, thanks!"));
