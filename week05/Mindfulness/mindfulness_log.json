@@ -1,0 +1,26 @@
+[
+  {
+    "ActivityName": "Breathing Activity",
+    "Timestamp": "2025-09-29T23:18:16.304735+03:00",
+    "DurationSeconds": 52,
+    "ItemsCount": 0
+  },
+  {
+    "ActivityName": "Listing Activity",
+    "Timestamp": "2025-09-29T23:23:27.0317851+03:00",
+    "DurationSeconds": 18,
+    "ItemsCount": 2
+  },
+  {
+    "ActivityName": "Breathing Activity",
+    "Timestamp": "2025-09-29T23:26:58.7233168+03:00",
+    "DurationSeconds": 12,
+    "ItemsCount": 0
+  },
+  {
+    "ActivityName": "Reflection Activity",
+    "Timestamp": "2025-09-29T23:27:47.2702387+03:00",
+    "DurationSeconds": 24,
+    "ItemsCount": 0
+  }
+]
