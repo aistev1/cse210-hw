@@ -22,5 +22,29 @@
     "Timestamp": "2025-09-29T23:27:47.2702387+03:00",
     "DurationSeconds": 24,
     "ItemsCount": 0
+  },
+  {
+    "ActivityName": "Breathing Activity",
+    "Timestamp": "2025-09-30T07:38:44.3233998+03:00",
+    "DurationSeconds": 12,
+    "ItemsCount": 0
+  },
+  {
+    "ActivityName": "Reflection Activity",
+    "Timestamp": "2025-09-30T07:39:31.5359837+03:00",
+    "DurationSeconds": 27,
+    "ItemsCount": 0
+  },
+  {
+    "ActivityName": "Listing Activity",
+    "Timestamp": "2025-09-30T07:40:13.5893193+03:00",
+    "DurationSeconds": 15,
+    "ItemsCount": 5
+  },
+  {
+    "ActivityName": "Gratitude Activity",
+    "Timestamp": "2025-09-30T07:40:47.4585672+03:00",
+    "DurationSeconds": 17,
+    "ItemsCount": 0
   }
 ]
