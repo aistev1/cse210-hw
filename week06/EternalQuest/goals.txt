@@ -1,0 +1,5 @@
+SCORE|0|1
+Simple|give atalk|100|0
+Simple|yghgj|100|0
+Simple|ggdddf|100|0
+Eternal|gffg|100
